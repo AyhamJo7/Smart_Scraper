@@ -1,4 +1,4 @@
-aiohttp==3.9.1
+aiohttp==3.10.2
 beautifulsoup4==4.12.3
 fastapi==0.115.4
 firecrawl==1.4.0
