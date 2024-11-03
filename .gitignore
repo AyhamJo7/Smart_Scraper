@@ -1,1 +1,17 @@
+# Environment Variables
 .env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# Output or Temporary Files
+output/
+*.log
+
+# IDE Specific Files
+.vscode/
+.idea/
