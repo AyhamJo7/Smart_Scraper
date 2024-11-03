@@ -2,6 +2,8 @@
 
 An intelligent web scraping framework that combines modern scraping techniques with AI-powered analysis and adaptive parsing.
 
+> **⚠️ DISCLAIMER:** This tool is intended for educational and academic purposes only. Users are responsible for ensuring compliance with all applicable laws, terms of service, and website policies when conducting web scraping activities. Please use responsibly and ethically.
+
 ## Features
 
 - 🤖 AI-powered content analysis using Ollama LLaMA 3.2
@@ -17,6 +19,10 @@ An intelligent web scraping framework that combines modern scraping techniques w
 - Node.js 16+ (for Playwright/Puppeteer)
 - Docker (optional)
 
-## Quick Start
+## Development Status
 
-1. Clone the repository: 
+🚧 **This project is currently under active development** 🚧
+
+I am working hard to bring you a robust and ethical web scraping framework. The project is not yet ready for production use, and I'm actively implementing features and improvements. Stay tuned for updates!
+
+If you're interested in contributing or following the development progress, please watch this repository for announcements.
