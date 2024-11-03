@@ -10,5 +10,5 @@ pydantic==2.9.2
 pydantic_settings==2.6.1
 pytest==7.4.4
 python-dotenv==1.0.1
-streamlit==1.29.0
+streamlit==1.37.0
 uvicorn==0.32.0
