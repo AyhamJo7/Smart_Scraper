@@ -2,7 +2,7 @@
 playwright==1.41.0
 beautifulsoup4==4.12.3
 aiohttp==3.9.1
-requests==2.31.0
+requests==2.32.2
 
 # API and Web Framework
 fastapi==0.109.0
