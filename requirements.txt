@@ -1,51 +1,14 @@
-# Web Scraping
-playwright==1.41.0
-beautifulsoup4==4.12.3
 aiohttp==3.9.1
-requests==2.31.0
-
-# API and Web Framework
-fastapi==0.109.0
-uvicorn==0.27.0
-pydantic==2.5.3
-pydantic-settings==2.1.0
-
-# AI and Machine Learning
-ollama==0.1.6
-transformers==4.37.2
-torch==2.2.1
-
-# Database and Storage
-sqlalchemy==2.0.25
-alembic==1.13.1
-
-# UI
-streamlit==1.29.0
-plotly==5.18.0
-
-# System Monitoring
-psutil==5.9.8
-
-# Testing
-pytest==7.4.4
-pytest-asyncio==0.23.3
-pytest-cov==4.1.0
-
-# Utilities
-python-dotenv==1.0.0
+beautifulsoup4==4.12.3
+fastapi==0.115.4
+firecrawl==1.4.0
 loguru==0.7.2
-pandas>=2.2.0
-numpy>=1.26.0
-pathlib==1.0.1
-typing-extensions>=4.11.0
-asyncio==3.4.3
-
-# Security
-cryptography==41.0.7
-
-# Development Tools
-black==23.12.1
-isort==5.13.2
-flake8==7.0.0
-mypy==1.8.0
-pre-commit==3.6.0
+playwright==1.41.0
+plotly==5.18.0
+psutil==5.9.8
+pydantic==2.9.2
+pydantic_settings==2.6.1
+pytest==7.4.4
+python-dotenv==1.0.1
+streamlit==1.29.0
+uvicorn==0.32.0
