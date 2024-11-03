@@ -1,0 +1,27 @@
+# Labeler configuration file
+# This file specifies labels to apply to pull requests based on modified file paths.
+
+# Label for frontend-related changes
+frontend:
+  - "ui/**"
+
+# Label for backend-related changes
+backend:
+  - "src/**"
+  - "app.py"
+
+# Label for documentation changes
+documentation:
+  - "docs/**"
+  - "*.md"
+
+# Label for testing-related changes
+tests:
+  - "tests/**"
+
+# Label for configuration changes
+configuration:
+  - ".github/**"
+  - "Dockerfile"
+  - "requirements.txt"
+  - ".env.example"
