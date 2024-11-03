@@ -12,7 +12,7 @@ pydantic-settings==2.1.0
 
 # AI and Machine Learning
 ollama==0.1.6
-transformers==4.37.2
+transformers==4.38.0
 torch==2.2.1
 
 # Database and Storage
