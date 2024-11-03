@@ -41,7 +41,7 @@ typing-extensions>=4.11.0
 asyncio==3.4.3
 
 # Security
-cryptography==41.0.7
+cryptography==43.0.1
 
 # Development Tools
 black==23.12.1
