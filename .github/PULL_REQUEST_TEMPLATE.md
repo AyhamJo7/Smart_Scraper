@@ -1,7 +1,8 @@
 # Pull Request Title
 
 ## Description
-Please include a summary of the changes and the related issue. Describe your changes in detail.
+Please include a summary of the changes and the related issue. 
+Describe your changes in detail.
 
 ## Related Issue
 Link to the issue this pull request addresses: #[issue_number]
